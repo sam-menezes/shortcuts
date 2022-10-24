@@ -13,5 +13,5 @@ that were made shortcut.
 - Tabulation Data
 
 <br>
-<i> This project is updated weekly <i>
-<br>
+  <i> This project is updated weekly last updata 10/24 <i>
+   
