@@ -11,3 +11,7 @@ that were made shortcut.
 - Data preparation 
 - Numpy
 - Tabulation Data
+
+<br>
+<i> This project is updated weekly <i>
+<br>
