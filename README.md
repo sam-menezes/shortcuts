@@ -3,12 +3,17 @@
 This short composite compound that serves as a shortcut project for some recurring in my day-to-day data student, follow some themes and data students, follow some themes
 that were made shortcut.
 
-### Themes: 
+## Themes: 
+
+### ML (supervised):
 - Regressions
-- SQL in pyhton
 - Statitic Models
-- Data wranglig 
-- Data preparation 
+- Data preparation
+### ML (no-supervised)
+- Clustering 
+### ETL:
+- SQL in pyhton
+- Data wranglig  
 - Numpy
 - Tabulation Data
 
