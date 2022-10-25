@@ -1,7 +1,6 @@
 # shortcuts
 
-This short composite compound that serves as a shortcut project for some recurring in my day-to-day data student, follow some themes and data students, follow some themes
-that were made shortcut.
+This repository is composed of some shortcuts of some algorithms that I use in my day-to-day as a data scientist. They are separated by themes subdivided into:
 
 ## Themes: 
 
