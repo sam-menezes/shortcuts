@@ -9,7 +9,7 @@ that were made shortcut.
 - Regressions
 - Statitic Models
 - Data preparation
-### ML (no-supervised)
+### ML (non-supervised)
 - Clustering 
 ### ETL:
 - SQL in pyhton
